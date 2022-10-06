@@ -1,0 +1,20 @@
+{
+  "name": "betabot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "discord-inviter": "^0.9.1",
+    "discord-invites-tracker": "^1.1.2",
+    "discord.js": "^14.5.0",
+    "react-scripts": "^3.4.1",
+    "replace-in-file": "^6.3.5"
+  }
+}
